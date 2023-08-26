@@ -1,0 +1,89 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/partswarehouse-app.png",
+            "title": "PartsWarehouse",
+            "bodyText": "",
+            "links": [
+            ],
+            "tags" : [
+                "PHP",
+                "Laravel",
+                "Blade",
+                "MySQL",
+                "Bootstrap"
+            ]
+        },
+        {
+            "image" : "images/projects/rental-car-app.png",
+            "title": "Rental Car App",
+            "bodyText": "",
+            "links": [
+            ],
+            "tags" : [
+                "Angular",
+                "AngularJS",
+                "Bootstrap",
+                "HTML",
+                "CSS"
+            ]
+        },
+        {
+            "image" : "images/projects/uniplaces-home.png",
+            "title": "Home Renting App",
+            "bodyText": "",
+            "links": [
+            ],
+            "tags" : [
+                "React",
+                "Next",
+                "JavaScript",
+                "Node",
+                "API",
+                "MySQL"
+            ]
+        },
+        {
+            "image" : "images/projects/remax-app.png",
+            "title": "Real Estate App",
+            "bodyText": "",
+            "links": [
+            ],
+            "tags" : [
+                "Vue",
+                "Nuxt",
+                "Node",
+                "API",
+                "Tailwind CSS",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/listy-app.png",
+            "title": "Listy App",
+            "bodyText": "",
+            "links": [
+            ],
+            "tags" : [
+                "WordPress",
+                "WordPress Theme",
+                "WordPress Plugin",
+                "HTML",
+                "CSS"
+            ]
+        },
+        {
+            "image" : "images/projects/winedepot-app.png",
+            "title": "Wine Depot",
+            "bodyText": "",
+            "links": [
+                
+            ],
+            "tags" : [
+                "Shopify",
+                "Shopify Theme",
+                "HTML"
+            ]
+        }
+    ]
+}
